@@ -1,4 +1,3 @@
-# DevCon201706
-Materials for Azure Stack track on DevCon School
+Azure Stack Demo
 
-Practices manual: [*Manual.pdf*](MAS-ARM/MAS-ARM/Docs/Manual.pdf)
+Origin by Alex Shapoval https://github.com/ashapoms/DevCon201706
