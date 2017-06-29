@@ -38,7 +38,7 @@ Param(
 	[string] $DeployIndex = "04",
 	[string] $ResourceGroupPrefix = "Azure-RG",
 	[string] $AzureUserName = "admin@korepa89YANDEX.onmicrosoft.com",
-	[string] $AzureUserPassword = "Korepa159dac!"
+	[string] $AzureUserPassword = "*********"
 )
 
 # Prepare credentials and login to Azure subscription. 
